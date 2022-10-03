@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"v2ray\u540e\u7aef\u8282\u70b9\u5bf9\u63a5","permalink":"/blog/v2ray\u540e\u7aef\u8282\u70b9\u5bf9\u63a5"},{"title":"V2board\u90e8\u7f72","permalink":"/blog/V2board\u90e8\u7f72"}]}')}}]);
